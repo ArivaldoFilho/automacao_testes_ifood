@@ -14,8 +14,8 @@ project/
 │   └── test_cases.docx
 │
 ├── tests/              # Scripts de testes individuais
-│   ├── test_case1.py
-│   ├── test_case2.py
+│   ├── ct_001.py
+│   ├── ct_002.py
 │   └── ...
 │
 ├── .gitignore          # Configuração do Git para ignorar arquivos desnecessários
