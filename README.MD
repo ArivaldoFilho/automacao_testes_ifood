@@ -1,3 +1,6 @@
+** link para os vídeos das execuções dos casos de testes **
+https://1drv.ms/f/s!AgvOPBfXx0dNga8_-jYsfYj9zDpByA?e=a0RZ7d
+
 # Automação de Testes - iFood
 
 Este repositório contém os scripts de automação para testar funcionalidades do website iFood. Os testes são escritos em Python, utilizando o Selenium WebDriver para simular interações do usuário com o website.
