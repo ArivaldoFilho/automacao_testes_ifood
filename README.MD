@@ -1,4 +1,4 @@
-**link para os vídeos das execuções dos casos de testes**
+**Link para os vídeos das execuções dos casos de testes:**
 
 https://1drv.ms/f/s!AgvOPBfXx0dNga8_-jYsfYj9zDpByA?e=a0RZ7d
 
